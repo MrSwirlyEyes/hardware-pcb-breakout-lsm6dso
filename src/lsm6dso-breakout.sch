@@ -378,67 +378,67 @@
 </library>
 <library name="_sensors">
 <packages>
-<package name="QFN50P300X250X86-14N" urn="urn:adsk.eagle:footprint:24920508/1" locally_modified="yes">
-<description>14-QFN, 0.50 mm pitch, 3.00 X 2.50 X 0.86 mm body
-&lt;p&gt;14-pin QFN package with 0.50 mm pitch with body size 3.00 X 2.50 X 0.86 mm&lt;/p&gt;</description>
-<circle x="-1.6" y="1.9" radius="0.25" width="0" layer="21"/>
-<wire x1="-1.25" y1="0.839" x2="-1.25" y2="1.5" width="0.12" layer="21"/>
-<wire x1="-1.25" y1="1.5" x2="-1.089" y2="1.5" width="0.12" layer="21"/>
-<wire x1="1.25" y1="0.839" x2="1.25" y2="1.5" width="0.12" layer="21"/>
-<wire x1="1.25" y1="1.5" x2="1.089" y2="1.5" width="0.12" layer="21"/>
-<wire x1="1.25" y1="-0.839" x2="1.25" y2="-1.5" width="0.12" layer="21"/>
-<wire x1="1.25" y1="-1.5" x2="1.089" y2="-1.5" width="0.12" layer="21"/>
-<wire x1="-1.25" y1="-0.839" x2="-1.25" y2="-1.5" width="0.12" layer="21"/>
-<wire x1="-1.25" y1="-1.5" x2="-1.089" y2="-1.5" width="0.12" layer="21"/>
-<wire x1="1.25" y1="-1.5" x2="-1.25" y2="-1.5" width="0.12" layer="51"/>
-<wire x1="-1.25" y1="-1.5" x2="-1.25" y2="1.5" width="0.12" layer="51"/>
-<wire x1="-1.25" y1="1.5" x2="1.25" y2="1.5" width="0.12" layer="51"/>
-<wire x1="1.25" y1="1.5" x2="1.25" y2="-1.5" width="0.12" layer="51"/>
-<smd name="1" x="-1.1125" y="0.5" dx="0.875" dy="0.17" layer="1"/>
-<smd name="2" x="-1.1125" y="0" dx="0.875" dy="0.17" layer="1"/>
-<smd name="3" x="-1.1125" y="-0.5" dx="0.875" dy="0.17" layer="1"/>
-<smd name="4" x="-0.75" y="-1.3625" dx="0.875" dy="0.17" layer="1" rot="R90"/>
-<smd name="5" x="-0.25" y="-1.3625" dx="0.875" dy="0.17" layer="1" rot="R90"/>
-<smd name="6" x="0.25" y="-1.3625" dx="0.875" dy="0.17" layer="1" rot="R90"/>
-<smd name="7" x="0.75" y="-1.3625" dx="0.875" dy="0.17" layer="1" rot="R90"/>
-<smd name="8" x="1.1125" y="-0.5" dx="0.875" dy="0.17" layer="1"/>
-<smd name="9" x="1.1125" y="0" dx="0.875" dy="0.17" layer="1"/>
-<smd name="10" x="1.1125" y="0.5" dx="0.875" dy="0.17" layer="1"/>
-<smd name="11" x="0.75" y="1.3625" dx="0.875" dy="0.17" layer="1" rot="R90"/>
-<smd name="12" x="0.25" y="1.3625" dx="0.875" dy="0.17" layer="1" rot="R90"/>
-<smd name="13" x="-0.25" y="1.3625" dx="0.875" dy="0.17" layer="1" rot="R90"/>
-<smd name="14" x="-0.75" y="1.3625" dx="0.875" dy="0.17" layer="1" rot="R90"/>
-<text x="0" y="2.2" size="0.5" layer="25" ratio="10" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-2.2" size="0.25" layer="27" ratio="10" align="top-center">&gt;VALUE</text>
-<wire x1="-1.9" y1="-2.1" x2="1.9" y2="-2.1" width="0.127" layer="39"/>
-<wire x1="1.9" y1="-2.1" x2="1.9" y2="2.1" width="0.127" layer="39"/>
-<wire x1="1.9" y1="2.1" x2="-1.9" y2="2.1" width="0.127" layer="39"/>
-<wire x1="-1.9" y1="2.1" x2="-1.9" y2="-2.1" width="0.127" layer="39"/>
-<wire x1="2" y1="3" x2="2" y2="2" width="0.127" layer="21"/>
-<wire x1="2" y1="2" x2="3" y2="2" width="0.127" layer="21"/>
+<package name="QFN50P250X300X86-14N" urn="urn:adsk.eagle:footprint:27827134/1" locally_modified="yes">
+<description>14-QFN, 0.50 mm pitch, 2.50 X 3.00 X 0.86 mm body
+&lt;p&gt;14-pin QFN package with 0.50 mm pitch with body size 2.50 X 3.00 X 0.86 mm&lt;/p&gt;</description>
+<circle x="-2" y="1.7" radius="0.25" width="0" layer="21"/>
+<wire x1="-1.5" y1="1.1449" x2="-1.5" y2="1.25" width="0.12" layer="21"/>
+<wire x1="-1.5" y1="1.25" x2="-0.8949" y2="1.25" width="0.12" layer="21"/>
+<wire x1="1.5" y1="1.1449" x2="1.5" y2="1.25" width="0.12" layer="21"/>
+<wire x1="1.5" y1="1.25" x2="0.8949" y2="1.25" width="0.12" layer="21"/>
+<wire x1="1.5" y1="-1.1449" x2="1.5" y2="-1.25" width="0.12" layer="21"/>
+<wire x1="1.5" y1="-1.25" x2="0.8949" y2="-1.25" width="0.12" layer="21"/>
+<wire x1="-1.5" y1="-1.1449" x2="-1.5" y2="-1.25" width="0.12" layer="21"/>
+<wire x1="-1.5" y1="-1.25" x2="-0.8949" y2="-1.25" width="0.12" layer="21"/>
+<wire x1="1.5" y1="-1.25" x2="-1.5" y2="-1.25" width="0.12" layer="51"/>
+<wire x1="-1.5" y1="-1.25" x2="-1.5" y2="1.25" width="0.12" layer="51"/>
+<wire x1="-1.5" y1="1.25" x2="1.5" y2="1.25" width="0.12" layer="51"/>
+<wire x1="1.5" y1="1.25" x2="1.5" y2="-1.25" width="0.12" layer="51"/>
+<smd name="1" x="-1.3625" y="0.75" dx="0.9868" dy="0.2818" layer="1"/>
+<smd name="2" x="-1.3625" y="0.25" dx="0.9868" dy="0.2818" layer="1"/>
+<smd name="3" x="-1.3625" y="-0.25" dx="0.9868" dy="0.2818" layer="1"/>
+<smd name="4" x="-1.3625" y="-0.75" dx="0.9868" dy="0.2818" layer="1"/>
+<smd name="5" x="-0.5" y="-1.1125" dx="0.9868" dy="0.2818" layer="1" rot="R90"/>
+<smd name="6" x="0" y="-1.1125" dx="0.9868" dy="0.2818" layer="1" rot="R90"/>
+<smd name="7" x="0.5" y="-1.1125" dx="0.9868" dy="0.2818" layer="1" rot="R90"/>
+<smd name="8" x="1.3625" y="-0.75" dx="0.9868" dy="0.2818" layer="1"/>
+<smd name="9" x="1.3625" y="-0.25" dx="0.9868" dy="0.2818" layer="1"/>
+<smd name="10" x="1.3625" y="0.25" dx="0.9868" dy="0.2818" layer="1"/>
+<smd name="11" x="1.3625" y="0.75" dx="0.9868" dy="0.2818" layer="1"/>
+<smd name="12" x="0.5" y="1.1125" dx="0.9868" dy="0.2818" layer="1" rot="R90"/>
+<smd name="13" x="0" y="1.1125" dx="0.9868" dy="0.2818" layer="1" rot="R90"/>
+<smd name="14" x="-0.5" y="1.1125" dx="0.9868" dy="0.2818" layer="1" rot="R90"/>
+<text x="0" y="2.1" size="1" layer="25" ratio="10" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-2.1" size="0.5" layer="27" ratio="10" align="top-center">&gt;VALUE</text>
+<wire x1="2.39" y1="3.2" x2="2.39" y2="2.2" width="0.127" layer="21"/>
+<wire x1="2.39" y1="2.2" x2="3.39" y2="2.2" width="0.127" layer="21"/>
 <polygon width="0.127" layer="21">
-<vertex x="3" y="2"/>
-<vertex x="2.7" y="2.3"/>
-<vertex x="2.7" y="1.7"/>
+<vertex x="3.39" y="2.2"/>
+<vertex x="3.09" y="2.5"/>
+<vertex x="3.09" y="1.9"/>
 </polygon>
 <polygon width="0.127" layer="21">
-<vertex x="2" y="3"/>
-<vertex x="1.7" y="2.7"/>
-<vertex x="2.3" y="2.7"/>
+<vertex x="2.39" y="3.2"/>
+<vertex x="2.09" y="2.9"/>
+<vertex x="2.69" y="2.9"/>
 </polygon>
-<text x="3" y="1.7" size="0.5" layer="21" ratio="10" align="top-left">X</text>
-<text x="1.7" y="3" size="0.5" layer="21" ratio="10" align="bottom-right">Y</text>
-<circle x="2" y="2" radius="0.4" width="0.127" layer="21"/>
-<circle x="2" y="2" radius="0.15" width="0" layer="21"/>
-<text x="2.6" y="2.6" size="0.5" layer="21" ratio="10">Z</text>
+<text x="3.39" y="1.9" size="0.5" layer="21" ratio="10" align="top-left">X</text>
+<text x="2.09" y="3.2" size="0.5" layer="21" ratio="10" align="bottom-right">Y</text>
+<circle x="2.39" y="2.2" radius="0.4" width="0.127" layer="21"/>
+<circle x="2.39" y="2.2" radius="0.15" width="0" layer="21"/>
+<text x="2.99" y="2.8" size="0.5" layer="21" ratio="10">Z</text>
+<wire x1="-2.2" y1="-2" x2="2.2" y2="-2" width="0.127" layer="39"/>
+<wire x1="2.2" y1="-2" x2="2.2" y2="2" width="0.127" layer="39"/>
+<wire x1="2.2" y1="2" x2="-2.2" y2="2" width="0.127" layer="39"/>
+<wire x1="-2.2" y1="2" x2="-2.2" y2="-2" width="0.127" layer="39"/>
 </package>
 </packages>
 <packages3d>
-<package3d name="QFN50P300X250X86-14N" urn="urn:adsk.eagle:package:24920496/1" type="model">
-<description>14-QFN, 0.50 mm pitch, 3.00 X 2.50 X 0.86 mm body
-&lt;p&gt;14-pin QFN package with 0.50 mm pitch with body size 3.00 X 2.50 X 0.86 mm&lt;/p&gt;</description>
+<package3d name="QFN50P250X300X86-14N" urn="urn:adsk.eagle:package:27827117/1" type="model">
+<description>14-QFN, 0.50 mm pitch, 2.50 X 3.00 X 0.86 mm body
+&lt;p&gt;14-pin QFN package with 0.50 mm pitch with body size 2.50 X 3.00 X 0.86 mm&lt;/p&gt;</description>
 <packageinstances>
-<packageinstance name="QFN50P300X250X86-14N"/>
+<packageinstance name="QFN50P250X300X86-14N"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -467,11 +467,12 @@
 </symbols>
 <devicesets>
 <deviceset name="LSMDSO" prefix="U" uservalue="yes">
+<description>Accelerometer, Gyroscope, 6 Axis Sensor I²C, SPI Output</description>
 <gates>
 <gate name="G$1" symbol="LSM6DSO" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="QFN50P300X250X86-14N">
+<device name="" package="QFN50P250X300X86-14N">
 <connects>
 <connect gate="G$1" pin="CS" pad="12"/>
 <connect gate="G$1" pin="GND" pad="6 7"/>
@@ -488,7 +489,7 @@
 <connect gate="G$1" pin="VDDIO" pad="5"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:24920496/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:27827117/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -517,8 +518,8 @@
 <wire x1="-0.525" y1="-0.25" x2="-0.525" y2="0.25" width="0.12" layer="51"/>
 <wire x1="-0.525" y1="0.25" x2="0.525" y2="0.25" width="0.12" layer="51"/>
 <wire x1="0.525" y1="0.25" x2="0.525" y2="-0.25" width="0.12" layer="51"/>
-<smd name="1" x="-0.4575" y="0" dx="0.5851" dy="0.6118" layer="1" thermals="no"/>
-<smd name="2" x="0.4575" y="0" dx="0.5851" dy="0.6118" layer="1" thermals="no"/>
+<smd name="1" x="-0.4575" y="0" dx="0.5851" dy="0.6118" layer="1"/>
+<smd name="2" x="0.4575" y="0" dx="0.5851" dy="0.6118" layer="1"/>
 <text x="0" y="0.635" size="0.5" layer="25" font="vector" ratio="10" align="bottom-center">&gt;NAME</text>
 <text x="0" y="-0.635" size="0.25" layer="27" font="vector" ratio="10" align="top-center">&gt;VALUE</text>
 <wire x1="-0.95" y1="0.55" x2="-0.95" y2="-0.55" width="0.127" layer="39"/>
@@ -784,7 +785,7 @@
 </class>
 </classes>
 <parts>
-<part name="U1" library="_sensors" deviceset="LSMDSO" device="" package3d_urn="urn:adsk.eagle:package:24920496/1" value="LSM6DSOTR"/>
+<part name="U1" library="_sensors" deviceset="LSMDSO" device="" package3d_urn="urn:adsk.eagle:package:27827117/1" value="LSM6DSOTR"/>
 <part name="SUPPLY6" library="_power_symbols" deviceset="GND" device=""/>
 <part name="SUPPLY7" library="_power_symbols" deviceset="VDD" device=""/>
 <part name="SUPPLY10" library="_power_symbols" deviceset="VDDIO" device=""/>
